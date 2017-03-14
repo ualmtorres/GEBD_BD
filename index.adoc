@@ -25,3 +25,7 @@ http://ual.es/cursos/bigdata1/[Web oficial del curso]
 * Base de datos de Sporting Goods (SG)
     ** link:scripts/SG/SG.sql[Script de inicialización de la Base de datos SG]
     ** Diagrama (link:models/SG.mwb[.mwb]/link:models/SG.pdf[.pdf])
+
+* Base de datos de Pensiones (Pensiones)
+    ** link:scripts/Pensiones/Pensiones.sql[Script de inicialización de la Base de datos Pensiones]
+    ** Diagrama (link:models/Pensiones.mwb[.mwb]/link:models/Pensiones.pdf[.pdf])
